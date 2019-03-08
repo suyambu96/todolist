@@ -1,6 +1,5 @@
 ## Todo List.
 
-Build a todo list with NodeJs, VueJs & MonogDB
 
 **Run**
 
